@@ -1,6 +1,6 @@
 # PySpark
 
-```
+```python
 
 # Don't change this query
 query = "SELECT origin, dest, COUNT(*) as N FROM flights GROUP BY origin, dest"
